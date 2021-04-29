@@ -123,3 +123,9 @@
   weight = 160
   identifier = "fel_tadhkir_taanis"
   url = "/nahw/fel_tadhkir_taanis/"
+
+[[nahw]]
+  name = "ফেয়ল বা ক্রিয়ার বাচ্য"
+  weight = 170
+  identifier = "maruf_majhul"
+  url = "/nahw/maruf_majhul/"
