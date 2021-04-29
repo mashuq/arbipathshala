@@ -129,3 +129,9 @@
   weight = 170
   identifier = "maruf_majhul"
   url = "/nahw/maruf_majhul/"
+
+[[nahw]]
+  name = "ইতিবাচক ও নেতিবাচক ফেয়ল বা ক্রিয়া"
+  weight = 180
+  identifier = "muthbat_manfi"
+  url = "/nahw/muthbat_manfi/"
