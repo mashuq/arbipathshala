@@ -111,3 +111,9 @@
   weight = 140
   identifier = "sifatul_fel"
   url = "/nahw/fel_zaman/"
+
+[[nahw]]
+  name = "ফেয়ল বা ক্রিয়ার কাল"
+  weight = 150
+  identifier = "fel_zaman"
+  url = "/nahw/fel_zaman/"
