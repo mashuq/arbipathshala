@@ -165,3 +165,9 @@
   weight = 250
   identifier = "amilul_fel"
   url = "/nahw/amilul_fel/"
+
+[[nahw]]
+  name = "হারফের বৈশিষ্ট"
+  weight = 260
+  identifier = "sifatul_harf"
+  url = "/nahw/sifatul_harf/"
