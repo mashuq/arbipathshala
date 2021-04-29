@@ -78,6 +78,18 @@
 
 [[nahw]]
   name = "রফা / মারফু ইসমের স্থানসমূহ"
-  weight = 80
+  weight = 90
   identifier = "marfuaat"
   url = "/nahw/fail/"
+
+[[nahw]]
+  name = "নসব / মানসুব ইসমের চিহ্ন বা আলামত"
+  weight = 100
+  identifier = "alamatul_mansub"
+  url = "/nahw/ism_marfu/"
+
+[[nahw]]
+  name = "নসব / মানসুব ইসমের স্থানসমূহ"
+  weight = 110
+  identifier = "mansubaat"
+  url = "/nahw/maful_bihi/"
