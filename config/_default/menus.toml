@@ -135,3 +135,9 @@
   weight = 180
   identifier = "muthbat_manfi"
   url = "/nahw/muthbat_manfi/"
+
+[[nahw]]
+  name = "ফেয়লের ইরাব"
+  weight = 190
+  identifier = "fel_irab"
+  url = "/nahw/fel_irab/"
