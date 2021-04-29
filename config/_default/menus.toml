@@ -99,3 +99,9 @@
   weight = 120
   identifier = "alamatul_majrur"
   url = "/nahw/ism_majrur/"
+
+[[nahw]]
+  name = "জার / মাজরুর / খফদ / মাখফুদ ইসমের স্থানসমূহ"
+  weight = 130
+  identifier = "majruraat"
+  url = "/nahw/majrur/"
