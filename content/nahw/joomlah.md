@@ -9,7 +9,7 @@ images: []
 menu: 
   nahw:
     parent: "moudu_ilm_nahw"
-weight: 20
+weight: 30
 toc: true
 ---
 

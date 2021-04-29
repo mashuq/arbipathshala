@@ -29,115 +29,127 @@
   url = "/nahw/kalimah/"
 
 [[nahw]]
-  name = "কালিমাহর প্রকারভেদ"
+  name = "ইরাবের আলোচনা"
   weight = 30
+  identifier = "tariful_irab"
+  url = "/nahw/tariful_irab/"
+
+[[nahw]]
+  name = "ইরাবের প্রকার"
+  weight = 40
+  identifier = "anwanul_irab"
+  url = "/nahw/anwanul_irab/"
+
+[[nahw]]
+  name = "কালিমাহর প্রকারভেদ"
+  weight = 50
   identifier = "anwanul_kalimah"
   url = "/nahw/ism/"
 
 [[nahw]]
   name = "ইসমের বৈশিষ্ট"
-  weight = 40
+  weight = 60
   identifier = "sifatul_kalimah"
   url = "/nahw/ism/"
 
 [[nahw]]
   name = "মুজাক্কার মুয়ান্নাস বা লিঙ্গ"
-  weight = 50
+  weight = 70
   identifier = "ism_tadhkir_taanis"
   url = "/nahw/ism_tadhkir_taanis/"
 
 [[nahw]]
   name = "মারিফাহ নাকিরাহ বা নির্দিষ্টতা"
-  weight = 50
+  weight = 80
   identifier = "marifa_nakira"
   url = "/nahw/marifa_nakira/"
 
 [[nahw]]
   name = "মুফরাদ, মুসান্না, জামে বা বচন "
-  weight = 60
+  weight = 90
   identifier = "ism_adad"
   url = "/nahw/ism_adad/"
 
 [[nahw]]
   name = "বহুবচনের প্রকারভেদ"
-  weight = 70
+  weight = 100
   identifier = "anwanul_jame"
   url = "/nahw/jame/"
 
 [[nahw]]
   name = "ইসমের ইরাব"
-  weight = 80
+  weight = 110
   identifier = "irabul_ism"
   url = "/nahw/ism_irab/"
 
 [[nahw]]
   name = "রফা / মারফু ইসমের চিহ্ন বা আলামত"
-  weight = 80
+  weight = 120
   identifier = "alamatul_marfu"
   url = "/nahw/ism_marfu/"
 
 [[nahw]]
   name = "রফা / মারফু ইসমের স্থানসমূহ"
-  weight = 90
+  weight = 130
   identifier = "marfuaat"
   url = "/nahw/fail/"
 
 [[nahw]]
   name = "নসব / মানসুব ইসমের চিহ্ন বা আলামত"
-  weight = 100
+  weight = 140
   identifier = "alamatul_mansub"
   url = "/nahw/ism_mansub/"
 
 [[nahw]]
   name = "নসব / মানসুব ইসমের স্থানসমূহ"
-  weight = 110
+  weight = 150
   identifier = "mansubaat"
   url = "/nahw/maful_bihi/"
 
 [[nahw]]
   name = "জার / মাজরুর / খফদ / মাখফুদ ইসমের চিহ্ন বা আলামত"
-  weight = 120
+  weight = 160
   identifier = "alamatul_majrur"
   url = "/nahw/ism_majrur/"
 
 [[nahw]]
   name = "জার / মাজরুর / খফদ / মাখফুদ ইসমের স্থানসমূহ"
-  weight = 130
+  weight = 170
   identifier = "majruraat"
   url = "/nahw/majrur/"
 
 [[nahw]]
   name = "ফেয়লের বৈশিষ্ট"
-  weight = 140
+  weight = 180
   identifier = "sifatul_fel"
   url = "/nahw/fel_zaman/"
 
 [[nahw]]
   name = "ফেয়ল বা ক্রিয়ার কাল"
-  weight = 150
+  weight = 190
   identifier = "fel_zaman"
   url = "/nahw/fel_zaman/"
 
 [[nahw]]
   name = "ফেয়ল বা ক্রিয়ার লিঙ্গ"
-  weight = 160
+  weight = 200
   identifier = "fel_tadhkir_taanis"
   url = "/nahw/fel_tadhkir_taanis/"
 
 [[nahw]]
   name = "ফেয়ল বা ক্রিয়ার বাচ্য"
-  weight = 170
+  weight = 210
   identifier = "maruf_majhul"
   url = "/nahw/maruf_majhul/"
 
 [[nahw]]
   name = "ইতিবাচক ও নেতিবাচক ফেয়ল বা ক্রিয়া"
-  weight = 180
+  weight = 220
   identifier = "muthbat_manfi"
   url = "/nahw/muthbat_manfi/"
 
 [[nahw]]
   name = "ফেয়লের ইরাব"
-  weight = 190
+  weight = 230
   identifier = "fel_irab"
   url = "/nahw/fel_irab/"
