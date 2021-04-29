@@ -117,3 +117,9 @@
   weight = 150
   identifier = "fel_zaman"
   url = "/nahw/fel_zaman/"
+
+[[nahw]]
+  name = "ফেয়ল বা ক্রিয়ার লিঙ্গ"
+  weight = 160
+  identifier = "fel_tadhkir_taanis"
+  url = "/nahw/fel_tadhkir_taanis/"
