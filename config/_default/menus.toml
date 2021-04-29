@@ -105,3 +105,9 @@
   weight = 130
   identifier = "majruraat"
   url = "/nahw/majrur/"
+
+[[nahw]]
+  name = "ফেয়লের বৈশিষ্ট"
+  weight = 140
+  identifier = "sifatul_fel"
+  url = "/nahw/fel_zaman/"
