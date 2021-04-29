@@ -86,10 +86,16 @@
   name = "নসব / মানসুব ইসমের চিহ্ন বা আলামত"
   weight = 100
   identifier = "alamatul_mansub"
-  url = "/nahw/ism_marfu/"
+  url = "/nahw/ism_mansub/"
 
 [[nahw]]
   name = "নসব / মানসুব ইসমের স্থানসমূহ"
   weight = 110
   identifier = "mansubaat"
   url = "/nahw/maful_bihi/"
+
+[[nahw]]
+  name = "জার / মাজরুর / খফদ / মাখফুদ ইসমের চিহ্ন বা আলামত"
+  weight = 120
+  identifier = "alamatul_majrur"
+  url = "/nahw/ism_majrur/"
