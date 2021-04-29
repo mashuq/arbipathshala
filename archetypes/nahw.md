@@ -8,7 +8,7 @@ draft: false
 images: []
 menu: 
   nahw:
-    parent: "nahw"
+    parent: "xyz"
 weight: 999
 toc: true
 ---

@@ -51,3 +51,33 @@
   weight = 50
   identifier = "marifa_nakira"
   url = "/nahw/marifa_nakira/"
+
+[[nahw]]
+  name = "মুফরাদ, মুসান্না, জামে বা বচন "
+  weight = 60
+  identifier = "ism_adad"
+  url = "/nahw/ism_adad/"
+
+[[nahw]]
+  name = "বহুবচনের প্রকারভেদ"
+  weight = 70
+  identifier = "anwanul_jame"
+  url = "/nahw/jame/"
+
+[[nahw]]
+  name = "ইসমের ইরাব"
+  weight = 80
+  identifier = "irabul_ism"
+  url = "/nahw/ism_irab/"
+
+[[nahw]]
+  name = "রফা / মারফু ইসমের চিহ্ন বা আলামত"
+  weight = 80
+  identifier = "alamatul_marfu"
+  url = "/nahw/ism_marfu/"
+
+[[nahw]]
+  name = "রফা / মারফু ইসমের স্থানসমূহ"
+  weight = 80
+  identifier = "marfuaat"
+  url = "/nahw/fail/"
