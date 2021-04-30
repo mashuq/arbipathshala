@@ -125,6 +125,12 @@
   url = "/nahw/majrur/"
 
 [[nahw]]
+  name = "ইসমের ইরাবের অনুগামী"
+  weight = 185
+  identifier = "tawabi"
+  url = "/nahw/tawabi/"
+
+[[nahw]]
   name = "ফেয়লের বৈশিষ্ট"
   weight = 190
   identifier = "sifatul_fel"
@@ -177,3 +183,37 @@
   weight = 270
   identifier = "anwanul_harf"
   url = "/nahw/anwanul_harf/"
+
+[[nahw]]
+  name = "জুমলা বা বাক্যের অংশ"
+  weight = 280
+  identifier = "qismul_joomla"
+  url = "/nahw/qismul_joomla/"
+
+[[nahw]]
+  name = "জুমলা বা বাক্যের মৌলিক প্রকার"
+  weight = 290
+  identifier = "anwanul_joomla_1"
+  url = "/nahw/anwanul_joomla_1/"
+
+[[nahw]]
+  name = "জুমলা বা বাক্যের গৌণ প্রকার"
+  weight = 300
+  identifier = "anwanul_joomla_2"
+  url = "/nahw/anwanul_joomla_2/"
+
+[[nahw]]
+  name = "জুমলা ইসমিয়া গঠনকারী অংশ"
+  weight = 310
+  identifier = "joomla_ismia_aqsam"
+  url = "/nahw/joomla_ismia_aqsam/"
+
+[[nahw]]
+  name = "মুবতাদা খবর রহিতকারী"
+  weight = 320
+  identifier = "nawasikh_mubtada_khabr"
+  url = "/nahw/nawasikh_mubtada_khabr/"
+
+
+
+
