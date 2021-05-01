@@ -138,9 +138,15 @@
 
 [[nahw]]
   name = "মুশতাক ইসমের প্রকারভেদ"
-  weight = 182
+  weight = 183
   identifier = "anwanul_mushtaq"
   url = "/nahw/anwanul_mushtaq/"
+
+[[nahw]]
+  name = "মাবনী ইসম সমূহ"
+  weight = 184
+  identifier = "aqsamul_mabni"
+  url = "/nahw/aqsamul_mabni/"
 
 [[nahw]]
   name = "ফেয়লের বৈশিষ্ট"
