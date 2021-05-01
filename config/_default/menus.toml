@@ -126,9 +126,15 @@
 
 [[nahw]]
   name = "ইসমের ইরাবের অনুগামী"
-  weight = 185
+  weight = 181
   identifier = "tawabi"
   url = "/nahw/tawabi/"
+
+[[nahw]]
+  name = "ইসমের প্রকারভেদ"
+  weight = 182
+  identifier = "anwanul_ism"
+  url = "/nahw/anwanul_ism/"
 
 [[nahw]]
   name = "ফেয়লের বৈশিষ্ট"
