@@ -220,6 +220,11 @@
   identifier = "joomla_filia_aqsam"
   url = "/nahw/joomla_filia_aqsam/"
 
+[[nahw]]
+  name = "বাক্যাংশের প্রকার"
+  weight = 340
+  identifier = "murakkabe_naqis_anwan"
+  url = "/nahw/murakkabe_naqis_anwan/"
 
 
 
