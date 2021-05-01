@@ -214,6 +214,12 @@
   identifier = "nawasikh_mubtada_khabr"
   url = "/nahw/nawasikh_mubtada_khabr/"
 
+[[nahw]]
+  name = "জুমলা ফিলিয়া গঠনকারী অংশ"
+  weight = 330
+  identifier = "joomla_filia_aqsam"
+  url = "/nahw/joomla_filia_aqsam/"
+
 
 
 
