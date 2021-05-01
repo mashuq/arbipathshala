@@ -137,6 +137,12 @@
   url = "/nahw/anwanul_ism/"
 
 [[nahw]]
+  name = "মুশতাক ইসমের প্রকারভেদ"
+  weight = 182
+  identifier = "anwanul_mushtaq"
+  url = "/nahw/anwanul_mushtaq/"
+
+[[nahw]]
   name = "ফেয়লের বৈশিষ্ট"
   weight = 190
   identifier = "sifatul_fel"

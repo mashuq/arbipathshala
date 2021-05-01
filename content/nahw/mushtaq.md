@@ -1,5 +1,5 @@
 ---
-title: "مشتق"
+title: "مشتق মুশতাক"
 description: ""
 lead: ""
 date: 2021-05-01T12:55:00+06:00
