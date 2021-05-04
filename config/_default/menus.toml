@@ -62,7 +62,7 @@
   url = "/nahw/form_I_au/"
 
 [[sarf]]
-  name = "باب سَمِعَ يَسْمَعُ । বাব সামিয়া ইয়াসমাউ । ফর্ম I A-I"
+  name = "باب ضَرَبَ يَضْرِبُ । বাব দরাবা ইয়াদরিবু । ফর্ম I A-I"
   weight = 70
   identifier = "form_I_ai"
   url = "/nahw/form_I_ai/"
@@ -85,6 +85,17 @@
   identifier = "form_I_ii"
   url = "/nahw/form_I_ii/"
 
+[[sarf]]
+  name = "باب حَسِبَ يَحْسِبُ । বাব হাসিবা ইয়াহসিবু । ফর্ম I I-I"
+  weight = 100
+  identifier = "form_I_ii"
+  url = "/nahw/form_I_ii/"
+
+[[sarf]]
+  name = "باب سَمِعَ يَسْمَعُ । বাব সামিয়া ইয়াসমাউ । ফর্ম I I-A"
+  weight = 110
+  identifier = "form_I_ia"
+  url = "/nahw/form_I_ia/"
 
 # NAHW
 

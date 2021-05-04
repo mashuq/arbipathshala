@@ -1,14 +1,16 @@
 ---
-title: "Form_I_IA_fa3ila_yaf3alu_sami3a_yasma3u_mithal"
+title: "مثال মিসাল [باب سَمِعَ يَسْمَعُ । বাব সামিয়া ইয়াসমাউ । ফর্ম I I-A]"
 description: ""
 lead: ""
-date: 2021-05-03T02:25:44+06:00
-lastmod: 2021-05-03T02:25:44+06:00
+date: 2021-05-03T02:25:18+06:00
+lastmod: 2021-05-03T02:25:18+06:00
 draft: false
 images: []
 menu: 
   sarf:
-    parent: "xyz"
+    parent: "form_I_ia"
+    name: مثال মিসাল
+    identifier: "7form_I_ia"
 weight: 999
 toc: true
 ---

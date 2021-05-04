@@ -1,14 +1,16 @@
 ---
-title: "Form_I_IA_fa3ila_yaf3alu_sami3a_yasma3u_salim"
+title: "سالم সালিম [باب سَمِعَ يَسْمَعُ । বাব সামিয়া ইয়াসমাউ । ফর্ম I I-A]"
 description: ""
 lead: ""
-date: 2021-05-03T02:25:41+06:00
-lastmod: 2021-05-03T02:25:41+06:00
+date: 2021-05-03T02:25:15+06:00
+lastmod: 2021-05-03T02:25:15+06:00
 draft: false
 images: []
 menu: 
   sarf:
-    parent: "xyz"
+    parent: "form_I_ia"
+    name: سالم সালিম
+    identifier: "10form_I_ia"
 weight: 999
 toc: true
 ---
