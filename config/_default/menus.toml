@@ -56,9 +56,15 @@
 
 
 [[sarf]]
-  name = "باب  نَصَرَ  يَنصُرُ । বাব নাসারা ইয়ানসুরু । ফর্ম I A-U"
+  name = "باب نَصَرَ يَنصُرُ । বাব নাসারা ইয়ানসুরু । ফর্ম I A-U"
   weight = 60
   identifier = "form_I_au"
+  url = "/nahw/form_I_au/"
+
+[[sarf]]
+  name = "باب سَمِعَ يَسْمَعُ । বাব সামিয়া ইয়াসমাউ । ফর্ম I A-I"
+  weight = 70
+  identifier = "form_I_ai"
   url = "/nahw/form_I_au/"
 
 # NAHW
