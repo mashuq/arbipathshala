@@ -65,7 +65,14 @@
   name = "باب سَمِعَ يَسْمَعُ । বাব সামিয়া ইয়াসমাউ । ফর্ম I A-I"
   weight = 70
   identifier = "form_I_ai"
-  url = "/nahw/form_I_au/"
+  url = "/nahw/form_I_ai/"
+
+[[sarf]]
+  name = "باب فَتَحَ يَفْتَحُ । বাব ফাতাহা ইয়াফতাহু । ফর্ম I A-A"
+  weight = 80
+  identifier = "form_I_aa"
+  url = "/nahw/form_I_aa/"
+
 
 # NAHW
 
