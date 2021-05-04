@@ -73,6 +73,12 @@
   identifier = "form_I_aa"
   url = "/nahw/form_I_aa/"
 
+[[sarf]]
+  name = "باب كَرُمَ يَكْرُمُ । বাব কারুমা ইয়াকরুমু । ফর্ম I U-U"
+  weight = 90
+  identifier = "form_I_uu"
+  url = "/nahw/form_I_uu/"
+
 
 # NAHW
 
