@@ -1,5 +1,5 @@
 ---
-title: "Form_I_II_fa3ila_yaf3ilu_hasiba_yahsubu_mahmuz_fa"
+title: "مهموز فائي মাহমুজ ফায়ি [باب حَسِبَ يَحْسِبُ । বাব হাসিবা ইয়াহসিবু । ফর্ম I I-I]"
 description: ""
 lead: ""
 date: 2021-05-03T02:25:36+06:00
@@ -8,7 +8,9 @@ draft: false
 images: []
 menu: 
   sarf:
-    parent: "xyz"
+    parent: "form_I_ii"
+    name: "مهموز فائي মাহমুজ ফায়ি"
+    identifier: "5form_I_ii"
 weight: 999
 toc: true
 ---
