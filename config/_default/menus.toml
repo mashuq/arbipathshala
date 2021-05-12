@@ -104,10 +104,16 @@
   url = "/nahw/thulathi_majid_fih/"
 
 [[sarf]]
-  name = "باب تَفْعِيْلٌ/صَرَّفَ، يُصَرِّفُ । বাব তাফয়িল / সররাফা ইউসাররিফু । ফর্ম II"
+  name = "باب تَفْعِيْلٌ/صَرَّفَ يُصَرِّفُ । বাব তাফয়িল / সররাফা ইউসাররিফু । ফর্ম II"
   weight = 130
   identifier = "form_II"
   url = "/nahw/form_II/"
+
+[[sarf]]
+  name = "باب مُفَاعَلَةٌ وَفِعَالٌ/قَاتَلَ يُقَاتِلُ । বাব মুফাআলা ফিয়ালুন / কঅতালা ইউকঅতিলু । ফর্ম III"
+  weight = 140
+  identifier = "form_III"
+  url = "/nahw/form_III/"
 
 
 

@@ -1,5 +1,5 @@
 ---
-title: "Form_II_fa33ala_yufa33ilu_taf3il_sarrafa_yusarrifu_mahmuz_fa"
+title: "مهموز فائي মাহমুজ ফায়ি [باب تَفْعِيْلٌ/صَرَّفَ يُصَرِّفُ । বাব তাফয়িল / সররাফা ইউসাররিফু । ফর্ম II]"
 description: ""
 lead: ""
 date: 2021-05-03T02:25:49+06:00

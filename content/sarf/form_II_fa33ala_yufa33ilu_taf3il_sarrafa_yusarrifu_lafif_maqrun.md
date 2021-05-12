@@ -1,5 +1,5 @@
 ---
-title: "Form_II_fa33ala_yufa33ilu_taf3il_sarrafa_yusarrifu_lafif_maqrun"
+title: "لفيف مفروق লাফিফ মাকরুন [باب تَفْعِيْلٌ/صَرَّفَ يُصَرِّفُ । বাব তাফয়িল / সররাফা ইউসাররিফু । ফর্ম II]"
 description: ""
 lead: ""
 date: 2021-05-03T02:25:54+06:00
