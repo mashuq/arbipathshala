@@ -8,7 +8,9 @@ draft: false
 images: []
 menu: 
   sarf:
-    parent: "xyz"
+    parent: "form_II"
+    name: "مثال মিসাল"
+    identifier: "7form_II"
 weight: 999
 toc: true
 ---

@@ -8,7 +8,9 @@ draft: false
 images: []
 menu: 
   sarf:
-    parent: "xyz"
+    parent: "form_II"
+    name: "مُضعَف মুদাআফ"
+    identifier: "8form_II"
 weight: 999
 toc: true
 ---

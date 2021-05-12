@@ -97,6 +97,20 @@
   identifier = "form_I_ia"
   url = "/nahw/form_I_ia/"
 
+[[sarf]]
+  name = "সুলাসি মাজিদ ফিহ"
+  weight = 120
+  identifier = "thulathi_majid_fih"
+  url = "/nahw/thulathi_majid_fih/"
+
+[[sarf]]
+  name = "باب تَفْعِيْلٌ/صَرَّفَ، يُصَرِّفُ । বাব তাফয়িল / সররাফা ইউসাররিফু । ফর্ম II"
+  weight = 130
+  identifier = "form_II"
+  url = "/nahw/form_II/"
+
+
+
 # NAHW
 
 
