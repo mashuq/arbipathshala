@@ -8,6 +8,11 @@
   url = "/sarf/tarif/"
   weight = 20
 
+[[main]]
+  name = "তাজবীদ"
+  url = "/tajweed/tarif/"
+  weight = 30
+
 
 # [[social]]
 #   name = "Facebook"
@@ -22,6 +27,21 @@
 #   post = "v0.1.0"
 #   weight = 20
 
+# TAJWEED
+
+[[tajweed]]
+  name = "তাজবীদ"
+  weight = 10
+  identifier = "tajweed"
+  url = "/tajweed/tarif/"
+
+[[tajweed]]
+  name = "তাজবীদের আলোচনার বিষয়"
+  weight = 20
+  identifier = "moudu_ilm_tajweed"
+  url = "/tajweed/moudu_ilm_tajweed/"
+
+
 # SARF
 
 [[sarf]]
@@ -34,7 +54,7 @@
   name = "সরফের আলোচনার বিষয়"
   weight = 20
   identifier = "moudu_ilm_sarf"
-  url = "/nahw/moudu_ilm_sarf/"
+  url = "/sarf/moudu_ilm_sarf/"
 
 [[sarf]]
   name = "সরফের কিছু মৌলিক বিষয়"
