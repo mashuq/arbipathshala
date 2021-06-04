@@ -10,7 +10,7 @@ menu:
   nahw:
     parent: "marifa_nakira"
 weight: 10
-toc: true
+toc: false
 ---
 
 ::: easydef

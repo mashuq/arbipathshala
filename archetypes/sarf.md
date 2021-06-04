@@ -4,7 +4,7 @@ description: ""
 lead: ""
 date: {{ .Date }}
 lastmod: {{ .Date }}
-draft: false
+draft: true
 images: []
 menu: 
   sarf:

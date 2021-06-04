@@ -34,9 +34,9 @@ toc: true
 
 আরবী কালিমাহ ৩ প্রকার:
 
-1. [اسْم ইসম](/guide/nahw/kalimah/ism/)
-2. [فِعْل ফেয়ল](/guide/nahw/kalimah/fel)
-3. [حَرْف হারফ](/guide/nahw/kalimah/harf)
+1. [اسْم ইসম](/nahw/ism/)
+2. [فِعْل ফেয়ল](/nahw/fel)
+3. [حَرْف হারফ](/nahw/harf)
 
 ### কোরআন থেকে উদাহরণ 
 
