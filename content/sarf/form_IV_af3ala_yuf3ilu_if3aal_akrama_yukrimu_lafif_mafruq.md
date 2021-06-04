@@ -1,5 +1,5 @@
 ---
-title: "Form_IV_af3ala_yuf3ilu_if3aal_akrama_yukrimu_lafif_mafruq"
+title: "لفيف مفروق লাফিফ মাফরুক [باب إِفْعالٌ/أَكْرَمَ، يُكْرِمُ। বাব ইফআল / আকরমা ইউকরিমু । ফর্ম IV]"
 description: ""
 lead: ""
 date: 2021-05-03T02:26:07+06:00
@@ -8,7 +8,9 @@ draft: false
 images: []
 menu: 
   sarf:
-    parent: "xyz"
+    parent: "form_IV"
+    name: "لفيف مفروق লাফিফ মাফরুক"
+    identifier: "2form_IV"
 weight: 999
 toc: true
 ---

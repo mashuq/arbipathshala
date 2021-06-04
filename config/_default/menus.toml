@@ -135,6 +135,12 @@
   identifier = "form_III"
   url = "/nahw/form_III/"
 
+[[sarf]]
+  name = "باب إِفْعالٌ/أَكْرَمَ، يُكْرِمُ। বাব ইফআল / আকরমা ইউকরিমু । ফর্ম IV"
+  weight = 150
+  identifier = "form_IV"
+  url = "/nahw/form_IV/"
+
 
 
 # NAHW
@@ -271,6 +277,12 @@
   weight = 184
   identifier = "aqsamul_mabni"
   url = "/nahw/aqsamul_mabni/"
+
+[[nahw]]
+  name = "বিবিধ ইসম সমূহ"
+  weight = 185
+  identifier = "misc_isms"
+  url = "/nahw/misc_isms/"
 
 [[nahw]]
   name = "ফেয়লের বৈশিষ্ট"
