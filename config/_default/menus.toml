@@ -158,41 +158,41 @@
   identifier = "moudu_ilm_nahw"
   url = "/nahw/kalimah/"
 
-# [[nahw]]
-#   name = "ইরাবের আলোচনা"
-#   weight = 30
-#   identifier = "tariful_irab"
-#   url = "/nahw/tariful_irab/"
+[[nahw]]
+  name = "ইরাবের আলোচনা"
+  weight = 30
+  identifier = "tariful_irab"
+  url = "/nahw/tariful_irab/"
 
-# [[nahw]]
-#   name = "ইরাবের প্রকার"
-#   weight = 40
-#   identifier = "anwanul_irab"
-#   url = "/nahw/anwanul_irab/"
+[[nahw]]
+  name = "ইরাবের প্রকার"
+  weight = 40
+  identifier = "anwanul_irab"
+  url = "/nahw/anwanul_irab/"
 
-# [[nahw]]
-#   name = "রফা / মারফু এর চিহ্ন বা আলামত"
-#   weight = 50
-#   identifier = "alamatul_marfu"
-#   url = "/nahw/ism_marfu/"
+[[nahw]]
+  name = "রফা / মারফু এর চিহ্ন বা আলামত"
+  weight = 50
+  identifier = "alamatul_marfu"
+  url = "/nahw/ism_marfu/"
 
-# [[nahw]]
-#   name = "নসব / মানসুব এর চিহ্ন বা আলামত"
-#   weight = 60
-#   identifier = "alamatul_mansub"
-#   url = "/nahw/ism_mansub/"
+[[nahw]]
+  name = "নসব / মানসুব এর চিহ্ন বা আলামত"
+  weight = 60
+  identifier = "alamatul_mansub"
+  url = "/nahw/ism_mansub/"
 
-# [[nahw]]
-#   name = "জার / মাজরুর / খফদ / মাখফুদ এর চিহ্ন বা আলামত"
-#   weight = 70
-#   identifier = "alamatul_majrur"
-#   url = "/nahw/ism_majrur/"
+[[nahw]]
+  name = "জার / মাজরুর / খফদ / মাখফুদ এর চিহ্ন বা আলামত"
+  weight = 70
+  identifier = "alamatul_majrur"
+  url = "/nahw/ism_majrur/"
 
-# [[nahw]]
-#   name = "জজম / মাজজুম এর চিহ্ন বা আলামত"
-#   weight = 80
-#   identifier = "alamatul_majzum"
-#   url = "/nahw/jawazim/"
+[[nahw]]
+  name = "জজম / মাজজুম এর চিহ্ন বা আলামত"
+  weight = 80
+  identifier = "alamatul_majzum"
+  url = "/nahw/jawazim/"
 
 [[nahw]]
   name = "কালিমাহর প্রকারভেদ"
@@ -200,11 +200,11 @@
   identifier = "anwanul_kalimah"
   url = "/nahw/ism/"
 
-# [[nahw]]
-#   name = "ইসমের বৈশিষ্ট"
-#   weight = 100
-#   identifier = "sifatul_kalimah"
-#   url = "/nahw/ism/"
+[[nahw]]
+  name = "ইসমের বৈশিষ্ট"
+  weight = 100
+  identifier = "sifatul_kalimah"
+  url = "/nahw/ism/"
 
 [[nahw]]
   name = "মুজাক্কার মুয়ান্নাস বা লিঙ্গ"
@@ -218,11 +218,11 @@
   identifier = "marifa_nakira"
   url = "/nahw/marifa_nakira/"
 
-# [[nahw]]
-#   name = "মুফরাদ, মুসান্না, জামে বা বচন "
-#   weight = 130
-#   identifier = "ism_adad"
-#   url = "/nahw/ism_adad/"
+[[nahw]]
+  name = "মুফরাদ, মুসান্না, জামে বা বচন "
+  weight = 130
+  identifier = "ism_adad"
+  url = "/nahw/ism_adad/"
 
 [[nahw]]
   name = "বহুবচনের প্রকারভেদ"
@@ -230,162 +230,170 @@
   identifier = "anwanul_jame"
   url = "/nahw/jame/"
 
-# [[nahw]]
-#   name = "ইসমের ইরাব"
-#   weight = 150
-#   identifier = "irabul_ism"
-#   url = "/nahw/ism_irab/"
+[[nahw]]
+  name = "ইসমের ইরাব"
+  weight = 150
+  identifier = "irabul_ism"
+  url = "/nahw/ism_irab/"
 
-# [[nahw]]
-#   name = "রফা / মারফু ইসমের স্থানসমূহ"
-#   weight = 160
-#   identifier = "marfuaat"
-#   url = "/nahw/fail/"
+[[nahw]]
+  name = "রফা / মারফু ইসমের স্থানসমূহ"
+  weight = 160
+  identifier = "marfuaat"
+  url = "/nahw/fail/"
 
-# [[nahw]]
-#   name = "নসব / মানসুব ইসমের স্থানসমূহ"
-#   weight = 170
-#   identifier = "mansubaat"
-#   url = "/nahw/maful_bihi/"
+[[nahw]]
+  name = "নসব / মানসুব ইসমের স্থানসমূহ"
+  weight = 170
+  identifier = "mansubaat"
+  url = "/nahw/maful_bihi/"
 
-# [[nahw]]
-#   name = "জার / মাজরুর / খফদ / মাখফুদ ইসমের স্থানসমূহ"
-#   weight = 180
-#   identifier = "majruraat"
-#   url = "/nahw/majrur/"
+[[nahw]]
+  name = "জার / মাজরুর / খফদ / মাখফুদ ইসমের স্থানসমূহ"
+  weight = 180
+  identifier = "majruraat"
+  url = "/nahw/majrur/"
 
-# [[nahw]]
-#   name = "ইসমের ইরাবের অনুগামী"
-#   weight = 181
-#   identifier = "tawabi"
-#   url = "/nahw/tawabi/"
+[[nahw]]
+  name = "ইসমের ইরাবের অনুগামী"
+  weight = 181
+  identifier = "tawabi"
+  url = "/nahw/tawabi/"
 
-# [[nahw]]
-#   name = "ইসমের প্রকারভেদ"
-#   weight = 182
-#   identifier = "anwanul_ism"
-#   url = "/nahw/anwanul_ism/"
+[[nahw]]
+  name = "ইসমের প্রকারভেদ"
+  weight = 182
+  identifier = "anwanul_ism"
+  url = "/nahw/anwanul_ism/"
 
-# [[nahw]]
-#   name = "মুশতাক ইসমের প্রকারভেদ"
-#   weight = 183
-#   identifier = "anwanul_mushtaq"
-#   url = "/nahw/anwanul_mushtaq/"
+[[nahw]]
+  name = "মুশতাক ইসমের প্রকারভেদ"
+  weight = 183
+  identifier = "anwanul_mushtaq"
+  url = "/nahw/anwanul_mushtaq/"
 
-# [[nahw]]
-#   name = "মাবনী ইসম সমূহ"
-#   weight = 184
-#   identifier = "aqsamul_mabni"
-#   url = "/nahw/aqsamul_mabni/"
+[[nahw]]
+  name = "মাবনী ইসম সমূহ"
+  weight = 184
+  identifier = "aqsamul_mabni"
+  url = "/nahw/aqsamul_mabni/"
 
-# [[nahw]]
-#   name = "বিবিধ ইসম সমূহ"
-#   weight = 185
-#   identifier = "misc_isms"
-#   url = "/nahw/misc_isms/"
+[[nahw]]
+  name = "জরফ বা স্থান/কাল বাচক ইসম"
+  weight = 185
+  identifier = "jarf"
+  url = "/nahw/jarf/"
 
-# [[nahw]]
-#   name = "ফেয়লের বৈশিষ্ট"
-#   weight = 190
-#   identifier = "sifatul_fel"
-#   url = "/nahw/fel_zaman/"
-
-# [[nahw]]
-#   name = "ফেয়ল বা ক্রিয়ার কাল"
-#   weight = 200
-#   identifier = "fel_zaman"
-#   url = "/nahw/fel_zaman/"
-
-# [[nahw]]
-#   name = "ফেয়ল বা ক্রিয়ার বচন"
-#   weight = 205
-#   identifier = "fel_adad"
-#   url = "/nahw/fel_adad/"
-
-# [[nahw]]
-#   name = "ফেয়ল বা ক্রিয়ার লিঙ্গ"
-#   weight = 210
-#   identifier = "fel_tadhkir_taanis"
-#   url = "/nahw/fel_tadhkir_taanis/"
+[[nahw]]
+  name = "বিবিধ ইসম সমূহ"
+  weight = 186
+  identifier = "misc_isms"
+  url = "/nahw/misc_isms/"
 
 
-# [[nahw]]
-#   name = "ফেয়ল বা ক্রিয়ার বাচ্য"
-#   weight = 220
-#   identifier = "maruf_majhul"
-#   url = "/nahw/maruf_majhul/"
 
-# [[nahw]]
-#   name = "ইতিবাচক ও নেতিবাচক ফেয়ল বা ক্রিয়া"
-#   weight = 230
-#   identifier = "muthbat_manfi"
-#   url = "/nahw/muthbat_manfi/"
+[[nahw]]
+  name = "ফেয়লের বৈশিষ্ট"
+  weight = 190
+  identifier = "sifatul_fel"
+  url = "/nahw/fel_zaman/"
 
-# [[nahw]]
-#   name = "ফেয়লের ইরাব"
-#   weight = 240
-#   identifier = "fel_irab"
-#   url = "/nahw/fel_irab/"
+[[nahw]]
+  name = "ফেয়ল বা ক্রিয়ার কাল"
+  weight = 200
+  identifier = "fel_zaman"
+  url = "/nahw/fel_zaman/"
 
-# [[nahw]]
-#   name = "ফেয়লের ইরাব প্রদানকারী"
-#   weight = 250
-#   identifier = "amilul_fel"
-#   url = "/nahw/amilul_fel/"
+[[nahw]]
+  name = "ফেয়ল বা ক্রিয়ার বচন"
+  weight = 205
+  identifier = "fel_adad"
+  url = "/nahw/fel_adad/"
 
-# [[nahw]]
-#   name = "হারফের বৈশিষ্ট"
-#   weight = 260
-#   identifier = "sifatul_harf"
-#   url = "/nahw/sifatul_harf/"
+[[nahw]]
+  name = "ফেয়ল বা ক্রিয়ার লিঙ্গ"
+  weight = 210
+  identifier = "fel_tadhkir_taanis"
+  url = "/nahw/fel_tadhkir_taanis/"
 
-# [[nahw]]
-#   name = "হারফের প্রকার"
-#   weight = 270
-#   identifier = "anwanul_harf"
-#   url = "/nahw/anwanul_harf/"
 
-# [[nahw]]
-#   name = "জুমলা বা বাক্যের অংশ"
-#   weight = 280
-#   identifier = "qismul_joomla"
-#   url = "/nahw/qismul_joomla/"
+[[nahw]]
+  name = "ফেয়ল বা ক্রিয়ার বাচ্য"
+  weight = 220
+  identifier = "maruf_majhul"
+  url = "/nahw/maruf_majhul/"
 
-# [[nahw]]
-#   name = "জুমলা বা বাক্যের মৌলিক প্রকার"
-#   weight = 290
-#   identifier = "anwanul_joomla_1"
-#   url = "/nahw/anwanul_joomla_1/"
+[[nahw]]
+  name = "ইতিবাচক ও নেতিবাচক ফেয়ল বা ক্রিয়া"
+  weight = 230
+  identifier = "muthbat_manfi"
+  url = "/nahw/muthbat_manfi/"
 
-# [[nahw]]
-#   name = "জুমলা বা বাক্যের গৌণ প্রকার"
-#   weight = 300
-#   identifier = "anwanul_joomla_2"
-#   url = "/nahw/anwanul_joomla_2/"
+[[nahw]]
+  name = "ফেয়লের ইরাব"
+  weight = 240
+  identifier = "fel_irab"
+  url = "/nahw/fel_irab/"
 
-# [[nahw]]
-#   name = "জুমলা ইসমিয়া গঠনকারী অংশ"
-#   weight = 310
-#   identifier = "joomla_ismia_aqsam"
-#   url = "/nahw/joomla_ismia_aqsam/"
+[[nahw]]
+  name = "ফেয়লের ইরাব প্রদানকারী"
+  weight = 250
+  identifier = "amilul_fel"
+  url = "/nahw/amilul_fel/"
 
-# [[nahw]]
-#   name = "মুবতাদা খবর রহিতকারী"
-#   weight = 320
-#   identifier = "nawasikh_mubtada_khabr"
-#   url = "/nahw/nawasikh_mubtada_khabr/"
+[[nahw]]
+  name = "হারফের বৈশিষ্ট"
+  weight = 260
+  identifier = "sifatul_harf"
+  url = "/nahw/sifatul_harf/"
 
-# [[nahw]]
-#   name = "জুমলা ফিলিয়া গঠনকারী অংশ"
-#   weight = 330
-#   identifier = "joomla_filia_aqsam"
-#   url = "/nahw/joomla_filia_aqsam/"
+[[nahw]]
+  name = "হারফের প্রকার"
+  weight = 270
+  identifier = "anwanul_harf"
+  url = "/nahw/anwanul_harf/"
 
-# [[nahw]]
-#   name = "বাক্যাংশের প্রকার"
-#   weight = 340
-#   identifier = "murakkabe_naqis_anwan"
-#   url = "/nahw/murakkabe_naqis_anwan/"
+[[nahw]]
+  name = "জুমলা বা বাক্যের অংশ"
+  weight = 280
+  identifier = "qismul_joomla"
+  url = "/nahw/qismul_joomla/"
+
+[[nahw]]
+  name = "জুমলা বা বাক্যের মৌলিক প্রকার"
+  weight = 290
+  identifier = "anwanul_joomla_1"
+  url = "/nahw/anwanul_joomla_1/"
+
+[[nahw]]
+  name = "জুমলা বা বাক্যের গৌণ প্রকার"
+  weight = 300
+  identifier = "anwanul_joomla_2"
+  url = "/nahw/anwanul_joomla_2/"
+
+[[nahw]]
+  name = "জুমলা ইসমিয়া গঠনকারী অংশ"
+  weight = 310
+  identifier = "joomla_ismia_aqsam"
+  url = "/nahw/joomla_ismia_aqsam/"
+
+[[nahw]]
+  name = "মুবতাদা খবর রহিতকারী"
+  weight = 320
+  identifier = "nawasikh_mubtada_khabr"
+  url = "/nahw/nawasikh_mubtada_khabr/"
+
+[[nahw]]
+  name = "জুমলা ফিলিয়া গঠনকারী অংশ"
+  weight = 330
+  identifier = "joomla_filia_aqsam"
+  url = "/nahw/joomla_filia_aqsam/"
+
+[[nahw]]
+  name = "বাক্যাংশের প্রকার"
+  weight = 340
+  identifier = "murakkabe_naqis_anwan"
+  url = "/nahw/murakkabe_naqis_anwan/"
 
 
 

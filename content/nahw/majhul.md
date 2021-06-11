@@ -4,7 +4,7 @@ description: ""
 lead: ""
 date: 2021-04-29T19:20:09+06:00
 lastmod: 2021-04-29T19:20:09+06:00
-draft: true
+draft: false
 images: []
 menu: 
   nahw:

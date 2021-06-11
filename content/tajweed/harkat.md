@@ -4,7 +4,7 @@ description: ""
 lead: ""
 date: 2021-05-15T22:56:31+06:00
 lastmod: 2021-05-15T22:56:31+06:00
-draft: true
+draft: false
 images: []
 menu: 
   tajweed:
