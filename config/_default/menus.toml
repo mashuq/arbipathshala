@@ -1,7 +1,12 @@
 [[main]]
   name = "নাহু"
-  url = "/nahw/tarif/"
+  url = "/nahw/nahw_hadd/"
   weight = 10
+
+[[main]]
+  name = "ব্লগ"
+  url = "/blog/"
+  weight = 20
 
 # [[main]]
 #   name = "সরফ"
